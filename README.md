@@ -2,6 +2,8 @@
 
 App to browse and display photos via an API.
 
+Created to be used on my raspberrypi and be available on my home network.
+
 To work together with [photonav-backend](https://github.com/pauloklaus/photonav-backend).
 
 ## Project setup

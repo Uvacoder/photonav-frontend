@@ -1,6 +1,6 @@
 {
   "name": "photonav-frontend",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "App to browse and display photos via an API.",
   "author": {
     "name": "Paulo Sergio Klaus",
